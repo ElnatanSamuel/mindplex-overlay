@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rafael Delgado",
+    "image": "https://randomuser.me/api/portraits/med/men/76.jpg",
+    "isonline": false,
+    "messagesexist": false
+  },
+  {
+    "name": "Issac Dival",
+    "image": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "isonline": true,
+    "messagesexist": false
+  },
+  {
+    "name": "Diy Savko",
+    "image": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "isonline": false,
+    "messagesexist": true
+  },
+  {
+    "name": "Edhalo Carvalho",
+    "image": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "isonline": true,
+    "messagesexist": true
+  },
+  {
+    "name": "Billy Jacobs",
+    "image": "https://randomuser.me/api/portraits/med/men/24.jpg",
+    "isonline": false,
+    "messagesexist": false
+  },
+  {
+    "name": "Devashree Keshri",
+    "image": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "isonline": true,
+    "messagesexist": true
+  },
+  {
+    "name": "Anatolia Grishola",
+    "image": "https://randomuser.me/api/portraits/med/women/20.jpg",
+    "isonline": true,
+    "messagesexist": false
+  },
+  {
+    "name": "Kelly Jensen",
+    "image": "https://randomuser.me/api/portraits/med/women/69.jpg",
+    "isonline": false,
+    "messagesexist": true
+  },
+  {
+    "name": "Henry Green",
+    "image": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "isonline": true,
+    "messagesexist": false
+  },
+  {
+    "name": "Aryan Lunder",
+    "image": "https://randomuser.me/api/portraits/med/men/51.jpg",
+    "isonline": false,
+    "messagesexist": true
+  }
+]
